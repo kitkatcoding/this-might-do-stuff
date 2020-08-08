@@ -1,0 +1,22 @@
+{
+  "name": "this-might-do-stuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitkatcoding/this-might-do-stuff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitkatcoding/this-might-do-stuff/issues"
+  },
+  "homepage": "https://github.com/kitkatcoding/this-might-do-stuff#readme",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
